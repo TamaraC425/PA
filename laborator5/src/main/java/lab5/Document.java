@@ -59,11 +59,6 @@ public class Document implements Serializable {
 
     @Override
     public String toString() {
-        return "Document{" +
-                "id='" + id + '\'' +
-                ", name='" + name + '\'' +
-                ", location='" + location + '\'' +
-                ", tags=" + tags +
-                '}';
+        return id + '\n' + name + '\n' + location + '\n' + tags ;
     }
 }

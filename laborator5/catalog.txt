@@ -1,0 +1,5 @@
+Java Resources
+C:\Users\Asus\Desktop\laborator5\catalog.txt
+java1
+Java course 1
+https://profs.info.uaic.ro/~acf/java/slides/en/intro_slide_en.pdf
