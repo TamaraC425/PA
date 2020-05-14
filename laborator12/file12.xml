@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13.0.2" class="java.beans.XMLDecoder">
+ <object class="MainFrame" id="MainFrame0">
+  <void property="bounds">
+   <object class="java.awt.Rectangle" id="Rectangle0">
+    <void class="java.awt.Rectangle" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Rectangle0"/>
+      <int>-8</int>
+     </void>
+    </void>
+    <void class="java.awt.Rectangle" method="getField">
+     <string>y</string>
+     <void method="set">
+      <object idref="Rectangle0"/>
+      <int>-8</int>
+     </void>
+    </void>
+    <void class="java.awt.Rectangle" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Rectangle0"/>
+      <int>1382</int>
+     </void>
+    </void>
+    <void class="java.awt.Rectangle" method="getField">
+     <string>height</string>
+     <void method="set">
+      <object idref="Rectangle0"/>
+      <int>744</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void property="contentPane">
+   <void property="size">
+    <object class="java.awt.Dimension" id="Dimension0">
+     <void class="java.awt.Dimension" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Dimension0"/>
+       <int>1366</int>
+      </void>
+     </void>
+     <void class="java.awt.Dimension" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Dimension0"/>
+       <int>705</int>
+      </void>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="extendedState">
+   <int>6</int>
+  </void>
+  <void property="name">
+   <string>frame0</string>
+  </void>
+ </object>
+</java>
